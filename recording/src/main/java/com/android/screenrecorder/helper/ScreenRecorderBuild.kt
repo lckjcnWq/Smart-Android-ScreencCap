@@ -254,7 +254,7 @@ class ScreenRecorderBuild private constructor(builder: Builder) {
 
     companion object {
         const val REQUEST_CODE = 100
-
+        const val REQUEST_SCREENCAP_CODE = 200
     }
 
     class Builder {

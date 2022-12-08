@@ -1,12 +1,10 @@
 package com.demo.screenrecorder
 
-import android.content.DialogInterface
 import android.os.Bundle
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import com.demo.screenrecorder.model.MessageBus
 import com.demo.screenrecorder.utils.SharedPreferencesUtils
-import com.demo.screenrecorder.utils.Utils
 import kotlinx.android.synthetic.main.activity_setting.*
 import org.greenrobot.eventbus.EventBus
 
